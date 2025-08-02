@@ -10,5 +10,6 @@ title: About
 - I build from first principles to ensure **future‑proof**, **impactful**, and **ethics-aligned** AI systems.
 
 ### 📫 Contact Me
+- Number: +91 998-147-0953
 - Email: kartiklodhi20011@gmail.com  
-- [LinkedIn](#) / [GitHub](#)
+- [LinkedIn](https://www.linkedin.com/in/kartik-lodhi-39212b248/) / [GitHub](https://www.linkedin.com/in/kartik-lodhi-39212b248/)
