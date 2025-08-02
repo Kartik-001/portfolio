@@ -1,32 +1,42 @@
 ---
 ---
-
-/* Import from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&family=Baskerville&family=Inter:wght@400;600&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&family=Inter:wght@400;600&display=swap');
 
 @import "{{ site.theme }}";
 
-/* Body text in EB Garamond */
+/* — Body text for credibility and readability — */
 body {
-  font-family: "EB Garamond", Garamond, serif;
+  font-family: "EB Garamond", Georgia, serif;
   font-size: 18px;
   line-height: 1.6;
 }
 
-/* Headings and nav use Inter or Roboto */
+/* — Headings and navigation links — */
 h1, h2, h3, nav a, .btn {
-  font-family: "Inter", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-weight: 600;
 }
 
-/* Optional emphasis with Baskerville */
+/* — Optional strong emphasis — */
 .project-title, .about-timeline {
-  font-family: "Baskerville", serif;
+  font-family: serif;
 }
 
-/* UI fine‑print */
+/* — Footer and meta information style — */
 footer, .post-meta {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 0.9rem;
   color: #555;
+}
+
+.chat-widget {
+  margin: 2rem 0;
+  max-width: 800px;
+  width: 100%;
+}
+.chat-widget iframe {
+  width: 100%;
+  height: 28rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
