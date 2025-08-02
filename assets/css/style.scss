@@ -1,10 +1,25 @@
+/* assets/css/style.scss */
 ---
 ---
 
 @import "{{ site.theme }}";
 
-/* Set a monospace font for project headers */
-h3 { font-family: "Fira Code", monospace; }
+/* Body copy uses Garamond serif for credibility */
+body {
+  font-family: "EB Garamond", Georgia, serif;
+  font-size: 18px;
+  line-height: 1.58;
+}
 
-/* Add margin to lists in about page */
-.about-page ul { margin-bottom: 1em; }
+/* Headings, nav items more modern */
+h1, h2, h3, nav a, .btn {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 600;
+}
+
+/* Optional: lighten footer / metatext */
+footer, .post-meta {
+  font-family: "Inter", sans-serif;
+  font-size: 0.89rem;
+  color: #555;
+}
