@@ -14,18 +14,13 @@ If you'd like to collaborate or just say hello, feel free to reach out:
 
 ---
 
-### ✍️ Or drop a message directly!
+### ✍️ Or drop a message directly:
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
-  
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
-  
-  <label for="message">Your Message:</label><br>
-  <textarea id="message" name="message" rows="4" required></textarea><br><br>
-  
-  <button type="submit">Send Message</button>
-</form>
-
+<div class="responsive-iframe-container">
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLSczRtIZeqvAyeyxaMIyRD9SUUhf9mD6SmAdi1UGkl8O5bom_Q/viewform?embedded=true"
+    frameborder="0" marginheight="0" marginwidth="0"
+    title="Contact Form (embedded)">
+    Loading…
+  </iframe>
+</div>
