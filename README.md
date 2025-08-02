@@ -1,5 +1,5 @@
 ---
-title: “Kartik Lodhi — AI & Machine Learning Portfolio”
+title: “Kartik Lodhi — Portfolio”
 description: “Portfolio site showcasing AI/ML projects, skills, and background of Kartik Lodhi”
 ---
 
