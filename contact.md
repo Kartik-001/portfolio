@@ -19,9 +19,9 @@ If you'd like to collaborate or just say hello, feel free to reach out:
 <form action="https://formspree.io/f/mgvzlykj" method="POST" class="contact-form">
   <label>Name *</label>
   <input type="text" name="name" required>
-  <label>Email *</label>
+  <label>\nEmail *</label>
   <input type="email" name="email" required>
-  <label>Message *</label>
+  <label>\nMessage *</label>
   <textarea name="message" rows="5" required></textarea>
   <button type="submit">Send Message</button>
 </form>
