@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Set a monospace font for project headers */
+h3 { font-family: "Fira Code", monospace; }
+
+/* Add margin to lists in about page */
+.about-page ul { margin-bottom: 1em; }
