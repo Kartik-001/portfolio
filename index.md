@@ -12,5 +12,5 @@ layout: default
 
 [Explore Projects →](/projects.md)  
 [Learn About Me →](/about.md)  
-[Contact Me →](/contact.html)
+[Contact Me →](/contact.md)
 
