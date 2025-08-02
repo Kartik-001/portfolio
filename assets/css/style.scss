@@ -40,3 +40,20 @@ footer, .post-meta {
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+/* Makes the embedded iframe adapt to screen size gracefully */
+.responsive-iframe-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 140%; /* Adjust to form length; 140% ≈ taller form */
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-iframe-container iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
