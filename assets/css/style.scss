@@ -1,25 +1,23 @@
-/* assets/css/style.scss */
 ---
 ---
-
 @import "{{ site.theme }}";
 
-/* Body copy uses Garamond serif for credibility */
+/* Body text */
 body {
   font-family: "EB Garamond", Georgia, serif;
   font-size: 18px;
   line-height: 1.58;
 }
 
-/* Headings, nav items more modern */
+/* Headings & navigation */
 h1, h2, h3, nav a, .btn {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-weight: 600;
 }
 
-/* Optional: lighten footer / metatext */
+/* Footer & metadata */
 footer, .post-meta {
   font-family: "Inter", sans-serif;
-  font-size: 0.89rem;
+  font-size: 0.9rem;
   color: #555;
 }
