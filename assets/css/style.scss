@@ -1,24 +1,32 @@
 ---
 ---
-@import "{{ site.theme }}";
-@import "fonts.scss";
 
-/* Body copy — serif for trust & comfort */
+/* Import from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&family=Baskerville&family=Inter:wght@400;600&family=Roboto:wght@400;500&display=swap');
+
+@import "{{ site.theme }}";
+
+/* Body text in EB Garamond */
 body {
-  font-family: "EB Garamond", Georgia, serif;
+  font-family: "EB Garamond", Garamond, serif;
   font-size: 18px;
   line-height: 1.6;
 }
 
-/* Headings & nav — modern sans-serif */
+/* Headings and nav use Inter or Roboto */
 h1, h2, h3, nav a, .btn {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: "Inter", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-weight: 600;
 }
 
-/* Subtler meta text */
+/* Optional emphasis with Baskerville */
+.project-title, .about-timeline {
+  font-family: "Baskerville", serif;
+}
+
+/* UI fine‑print */
 footer, .post-meta {
-  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 0.9rem;
   color: #555;
 }
