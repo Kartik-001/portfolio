@@ -11,5 +11,5 @@ layout: default
 - **Hardware**: AI‑integrated bots—drones, delivery robots, underwater probes
 
 [Explore Projects →](/projects.md)  
-[Learn About Me →](/about.md)
-[Contact Me →](/contact.md)
+[Learn About Me →](/about.md)  
+[Contact Me →](/contact.md)  
