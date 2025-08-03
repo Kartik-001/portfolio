@@ -92,12 +92,14 @@ footer, .post-meta {
   /* Position it like the original GitHub button */
   position: absolute;
   top: 52px;
-  right: 0;
+  right: 35px;            /* Slightly closer to center the visual weight */
+  transform: translateY(-50%);
   margin-right: 0;
   
   /* Make it display as button */
   display: block;
   text-align: center;
+  white-space: nowrap;    /* Prevent text wrapping */
 }
 
 .contact-btn:hover {
