@@ -17,6 +17,10 @@ h1, h2, h3, nav a, .btn {
   font-weight: 600;
 }
 
+.inner h1 {
+  font-family: "Inter", sans-serif !important;
+}
+
 /* — Optional strong emphasis — */
 .project-title, .about-timeline {
   font-family: serif;
