@@ -76,23 +76,38 @@ footer, .post-meta {
 }
 
 /* — Header "Contact Me" button styling — */
-/* Scoped to .contact class for precision */
-a.button.contact {
+/* Position the button to the right side of the header like the original GitHub button */
+.contact-btn {
   font-family: "Inter", sans-serif;
-  font-size: 1.35rem !important;
+  font-size: 1.35rem;
   line-height: 1.2;
-  background-color: transparent !important;
-  color: white !important;
+  background-color: transparent;
+  color: white;
   border: 2px solid white;
   border-radius: 0.4rem;
   padding: 0.8rem 1.4rem;
-  display: inline-block;
   text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease;
+  
+  /* Position it like the original GitHub button */
+  position: absolute;
+  top: 52px;
+  right: 0;
+  margin-right: 0;
+  
+  /* Make it display as button */
+  display: block;
+  text-align: center;
 }
-a.button.contact:hover {
-  background-color: white !important;
-  color: #0d6efd !important;
+
+.contact-btn:hover {
+  background-color: white;
+  color: #0d6efd;
+}
+
+/* Ensure the header inner div has relative positioning for absolute positioning to work */
+header .inner {
+  position: relative;
 }
 
 /* Remove any icon or SVG inside the button — scoped */
@@ -103,6 +118,8 @@ a.button.contact .Icon {
   display: none !important;
 }
 
+/* Alternative styling if the above doesn't work - float method */
+/*
 .contact-btn {
   font-family: "Inter", sans-serif;
   font-size: 1.35rem;
@@ -112,11 +129,9 @@ a.button.contact .Icon {
   border: 2px solid white;
   border-radius: 0.4rem;
   padding: 0.8rem 1.4rem;
-  display: inline-block;
   text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease;
+  float: right;
+  margin-top: -60px;
 }
-.contact-btn:hover {
-  background-color: white;
-  color: #0d6efd;
-}
+*/
