@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kartik Lodhi
+title: Kartik 
 ---
 
 ## Hi, I'm **Kartik Lodhi** 👋
