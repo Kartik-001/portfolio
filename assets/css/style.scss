@@ -75,17 +75,22 @@ footer, .post-meta {
   background-color: #0b5ed7;
 }
 
-/* — Button overrides for header Contact Me button — */
+/* — Enable styled white box and larger font on header “Contact Me” button — */
 a.button {
   font-family: "Inter", sans-serif;
-  font-size: 1.3rem !important;
+  font-size: 1.4rem !important;
   line-height: 1.2;
-  background-image: none !important;
-  padding: 0.6rem 1rem;
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  color: #0366d6 !important;
+  border: 2px solid #ffffff;
+  border-radius: 0.5rem;
+  padding: 0.8rem 1.2rem;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
   display: inline-block;
+  text-decoration: none;
 }
 
-/* Hide any nested icon elements inside the button */
+/* Remove octocat or background icon */
 a.button svg,
 a.button i,
 a.button .Octicon,
