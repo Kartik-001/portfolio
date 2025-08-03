@@ -1,4 +1,5 @@
 ---
+title: "Kartik Lodhi Portfolio"
 layout: default
 ---
 
