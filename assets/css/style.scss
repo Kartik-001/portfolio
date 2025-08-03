@@ -1,7 +1,7 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&family=Inter:wght@400;600&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&family=Inter:wght@400;600&display=swap');
 @import "{{ site.theme }}";
 
 /* — Body text for credibility and readability — */
@@ -29,6 +29,7 @@ footer, .post-meta {
   color: #555;
 }
 
+/* — Streamlit chat widget styling — */
 .chat-widget {
   margin: 2rem 0;
   max-width: 800px;
@@ -40,6 +41,8 @@ footer, .post-meta {
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+/* — Contact form styling — */
 .contact-form {
   max-width: 600px;
   margin: 2rem auto;
@@ -50,7 +53,8 @@ footer, .post-meta {
   margin-top: 1rem;
   font-weight: 600;
 }
-.contact-form input, .contact-form textarea {
+.contact-form input,
+.contact-form textarea {
   padding: 0.6rem;
   font-size: 1rem;
   border: 1px solid #ccc;
@@ -71,27 +75,20 @@ footer, .post-meta {
   background-color: #0b5ed7;
 }
 
-.button {
-  font-family: "Inter", sans-serif;
-}
-
-.button {
-  /* increase general font size for button labels */
-  font-size: 1.3rem; /* adjust to taste, e.g. 1.2rem */
-
-  /* ensure it overrides theme defaults */
-  line-height: 1.2;
-}
-
-/* Hide icon within user-page button */
-.button .Icon {
-  display: none;
-}
-
-/* If the button uses CSS background-image icon,
-   override it */
+/* — Button overrides for header Contact Me button — */
 a.button {
+  font-family: "Inter", sans-serif;
+  font-size: 1.3rem !important;
+  line-height: 1.2;
   background-image: none !important;
-  padding-left: 0.8rem; /* adjust padding for alignment */
+  padding: 0.6rem 1rem;
+  display: inline-block;
 }
 
+/* Hide any nested icon elements inside the button */
+a.button svg,
+a.button i,
+a.button .Octicon,
+a.button .Icon {
+  display: none !important;
+}
