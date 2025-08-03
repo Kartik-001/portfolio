@@ -1,5 +1,5 @@
 ---
-title: "Kartik Lodhi"
+title: "Kartik Lodhi Portfolio"
 layout: default
 ---
 
