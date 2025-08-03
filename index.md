@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kartik 
+title: Kartik Lodhi Portfolio
 ---
 
 ## Hi, I'm **Kartik Lodhi** 👋
