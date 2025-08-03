@@ -76,28 +76,29 @@ footer, .post-meta {
 }
 
 /* — Header "Contact Me" button styling — */
-a.button {
+/* Scoped to .contact class for precision */
+a.button.contact {
   font-family: "Inter", sans-serif;
   font-size: 1.35rem !important;
   line-height: 1.2;
-  background-color: rgba(255, 255, 255, 0.9) !important;
-  color: #0366d6 !important;
-  border: 2px solid #ffffff;
+  background-color: transparent !important;
+  color: white !important;
+  border: 2px solid white;
   border-radius: 0.4rem;
   padding: 0.8rem 1.4rem;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
   display: inline-block;
   text-decoration: none;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
-a.button:hover {
+a.button.contact:hover {
   background-color: white !important;
+  color: #0d6efd !important;
 }
 
-/* — Remove any icon or SVG inside the button — */
-a.button svg,
-a.button i,
-a.button .Octicon,
-a.button .Icon {
+/* Remove any icon or SVG inside the button — scoped */
+a.button.contact svg,
+a.button.contact i,
+a.button.contact .Octicon,
+a.button.contact .Icon {
   display: none !important;
 }
