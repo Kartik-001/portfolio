@@ -16,10 +16,10 @@ _I build AI and ML systems that drive smarter decisions._
 
 | Section | What you'll find |
 |--------|------------------|
-| [**Projects**](/projects/) | Case studies, demos, and source code |
-| [**Blog**](/blog/) *(optional)* | AI experiments, tutorials, and insights |
-| [**About Me**](/about/) | My background, philosophy, and credentials |
-| [**Contact**](/contact/) | Let’s connect or collaborate |
+| [**Projects**](/projects.md) | Case studies, demos, and source code |
+| [**Blog**](/blog.md) *(optional)* | AI experiments, tutorials, and insights |
+| [**About Me**](/about.md) | My background, philosophy, and credentials |
+| [**Contact Me**](/contact.md) | Let’s connect or collaborate |
 
 <br />
 
