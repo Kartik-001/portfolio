@@ -75,8 +75,9 @@ footer, .post-meta {
   background-color: #0b5ed7;
 }
 
-/* — Header “Contact Me” button styling — */
-a.contact-btn {
+/* — Header "Contact Me" button styling — */
+/* Scoped to .contact class for precision */
+a.button.contact {
   font-family: "Inter", sans-serif;
   font-size: 1.35rem !important;
   line-height: 1.2;
@@ -89,20 +90,33 @@ a.contact-btn {
   text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease;
 }
-a.contact-btn:hover {
+a.button.contact:hover {
   background-color: white !important;
   color: #0d6efd !important;
 }
-a.contact-btn svg,
-a.contact-btn i,
-a.contact-btn .Octicon,
-a.contact-btn .Icon {
+
+/* Remove any icon or SVG inside the button — scoped */
+a.button.contact svg,
+a.button.contact i,
+a.button.contact .Octicon,
+a.button.contact .Icon {
   display: none !important;
 }
 
-/* — Force the Contact Me button to sit directly under the <h2> — */
-header .inner > a.contact-btn {
-  display: block !important;
-  clear: both !important;
-  margin: 1rem auto 0 !important;
+.contact-btn {
+  font-family: "Inter", sans-serif;
+  font-size: 1.35rem;
+  line-height: 1.2;
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  border-radius: 0.4rem;
+  padding: 0.8rem 1.4rem;
+  display: inline-block;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+.contact-btn:hover {
+  background-color: white;
+  color: #0d6efd;
 }
