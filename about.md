@@ -21,10 +21,6 @@ My journey into data science and AI began during my undergrad, when I realized t
 
 ---
 
-<div style="text-align:center; margin:2rem 0;">
-  <!-- Replace with your actual profile image path -->
-  <img src="/assets/images/profile.jpg" alt="Kartik Lodhi" class="profile-photo" style="max-width:200px; border-radius:50%;">
-</div>
 
 ### 📫 Contact Me
 
