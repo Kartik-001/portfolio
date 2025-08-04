@@ -1,28 +1,36 @@
 ---
+
 layout: default
 title: Contact
 ---
 
-## 📬 Get in Touch
+## 📫 Get in Touch
 
-If you'd like to collaborate or just say hello, feel free to reach out:
+Have a question, proposal, or just want to say hello? Drop me a message below or use the quick links:
 
-- 📱 **Phone**: +91 998‑147‑0953  
-- 🧑‍💻 **Email**: [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/kartik‑lodhi‑39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)  
-- 🧠 **GitHub**: [github.com/Kartik‑001](https://github.com/Kartik-001)
-- 📄 **Résumé**: [Download PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
+* 📱 **Phone:** +91 998-147-0953
+* ✉️ **Email:** [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/kartik-lodhi-39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)
+* 💻 **GitHub:** [github.com/Kartik-001](https://github.com/Kartik-001)
+* 📄 **Résumé:** [Download PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
 
 ---
 
-### ✍️ Or drop a message directly:
+### ✍️ Send Me a Message
 
-<form action="https://formspree.io/f/mgvzlykj" method="POST" class="contact-form">
-  <label>Name *</label>
-  <input type="text" name="name" required>
-  <label>\nEmail *</label>
-  <input type="email" name="email" required>
-  <label>\nMessage *</label>
-  <textarea name="message" rows="5" required></textarea>
-  <button type="submit">Send Message</button>
+<form action="https://formspree.io/f/yourFormID" method="POST" class="contact-form">
+  <label for="name">Name *</label>
+  <input type="text" id="name" name="name" required>
+
+<label for="email">Email \*</label> <input type="email" id="email" name="email" required>
+
+<label for="message">Message \*</label>
+
+  <textarea id="message" name="message" rows="5" required></textarea>
+
+<button type="submit">Send Message</button>
+
 </form>
+
+*(I'll receive your message directly via email and will get back to you ASAP.)*
+
