@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
----------------
+---
 
 ## Hi, I’m Kartik Lodhi 👋
 
