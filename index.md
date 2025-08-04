@@ -5,7 +5,7 @@ title: Kartik Lodhi Portfolio
 
 ## Hi, I'm **Kartik Lodhi** 👋
 
-_I build AI and ML systems that drive smarter decisions._
+**Turning Data & AI into Actionable Insights** 
 
 - 🚀 Developer of **Baby GPT‑2 from Scratch** (PyTorch + custom BPE)
 - ✍️ Creator of a **BPE tokenizer with perplexity ≈ 15**
