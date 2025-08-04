@@ -11,7 +11,7 @@ If you'd like to collaborate or just say hello, feel free to reach out:
 - 🧑‍💻 **Email**: [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/kartik‑lodhi‑39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)  
 - 🧠 **GitHub**: [github.com/Kartik‑001](https://github.com/Kartik-001)
-- 📄 **Résumé**: [Download my PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
+- 📄 **Résumé**: [Download PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
 
 ---
 
