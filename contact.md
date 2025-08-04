@@ -16,20 +16,19 @@ Have a question, proposal, or just want to say hello? Drop me a message below or
 
 ---
 
-### ✍️ Send Me a Message
+## ✍️ Or drop me a message directly
 
-<form action="https://formspree.io/f/yourFormID" method="POST" class="contact-form">
+<form action="https://formspree.io/f/mgvzlykj" method="POST" class="contact-form">
   <label for="name">Name *</label>
   <input type="text" id="name" name="name" required>
 
-<label for="email">Email \*</label> <input type="email" id="email" name="email" required>
+  <label for="email">Email *</label>
+  <input type="email" id="email" name="email" required>
 
-<label for="message">Message \*</label>
-
+  <label for="message">Message *</label>
   <textarea id="message" name="message" rows="5" required></textarea>
 
-<button type="submit">Send Message</button>
-
+  <button type="submit">Send Message</button>
 </form>
 
 *(I'll receive your message directly via email and will get back to you ASAP.)*
