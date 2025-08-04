@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
----
+title: About Me
+---------------
 
 ## Hi, I’m Kartik Lodhi 👋
 
@@ -21,14 +21,18 @@ My journey into data science and AI began during my undergrad, when I realized t
 
 ---
 
+<div style="text-align:center; margin:2rem 0;">
+  <!-- Replace with your actual profile image path -->
+  <img src="/assets/images/profile.jpg" alt="Kartik Lodhi" class="profile-photo" style="max-width:200px; border-radius:50%;">
+</div>
 
-* 📄 **Résumé:** [Download my PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
-* 🤝 **LinkedIn:** [linkedin.com/in/kartik-lodhi-39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)
+### 📫 Contact Me
+
+* 📱 **Phone**: +91 998‑147‑0953
+* ✉️ **Email**: [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)
+* 🔗 **LinkedIn**: [linkedin.com/in/kartik-lodhi-39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)
+* 💻 **GitHub**: [github.com/Kartik-001](https://github.com/Kartik-001)
+* 📄 **Résumé**: [Download my PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
 
 *(Feel free to connect with me for collaborations, mentorship, or just a chat about AI!)*
 
-
-### 📫 Contact Me
-- Number: +91 998-147-0953
-- Email: kartiklodhi20011@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/kartik-lodhi-39212b248/) / [GitHub](https://www.linkedin.com/in/kartik-lodhi-39212b248/)
