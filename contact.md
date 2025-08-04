@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Contact
 ---
@@ -8,10 +7,11 @@ title: Contact
 
 Have a question, proposal, or just want to say hello? Drop me a message below or use the quick links:
 
-* 📱 **Phone:** +91 998-147-0953
-* ✉️ **Email:** [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)  <a href="mailto:kartiklodhi20011@gmail.com">Email Me</a>
-* 🔗 **LinkedIn:** [linkedin.com/in/kartik-lodhi-39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)
-* 💻 **GitHub:** [github.com/Kartik-001](https://github.com/Kartik-001)
+* 📱 **Phone:** +91 998‑147‑0953  
+* ✉️ **Email:** [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)  
+  <a href="mailto:kartiklodhi20011@gmail.com" class="button contact">✉️ Email Me</a>  
+* 🔗 **LinkedIn:** [linkedin.com/in/kartik-lodhi-39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)  
+* 💻 **GitHub:** [github.com/Kartik-001](https://github.com/Kartik-001)  
 * 📄 **Résumé:** [Download PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
 
 ---
@@ -31,5 +31,5 @@ Have a question, proposal, or just want to say hello? Drop me a message below or
   <button type="submit">Send Message</button>
 </form>
 
-*(I'll receive your message directly via email and will get back to you ASAP.)*
+_You can use the form above or the email button for quick reach. I’ll respond as soon as I can._
 
