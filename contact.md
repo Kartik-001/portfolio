@@ -14,6 +14,11 @@ Have a question, proposal, or just want to say hello? Drop me a message below or
 * 📄 **Résumé:** [Download PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
 
 ---
+* ✉️ **Email:** 
+  - [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com) (opens your email app)
+  - [Send via Gmail](https://mail.google.com/mail/?view=cm&to=kartiklodhi20011@gmail.com&su=Portfolio%20Inquiry) (opens in browser)
+  - Or copy: `kartiklodhi20011@gmail.com`
+---
 
 ## ✍️ Or drop me a message directly
 
