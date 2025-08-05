@@ -8,7 +8,7 @@ title: Contact
 Have a question, proposal, or just want to say hello? Drop me a message below or use the quick links:
 
 * 📱 **Phone:** +91 998‑147‑0953  
-* ✉️ **Email:** [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com) | [Send via Gmail](https://mail.google.com/mail/?view=cm&to=kartiklodhi20011@gmail.com)  
+* ✉️ **Email:** [kartiklodhi20011@gmail.com](mailto:kartiklodhi20011@gmail.com)  
 * 🔗 **LinkedIn:** [linkedin.com/in/kartik-lodhi-39212b248](https://www.linkedin.com/in/kartik-lodhi-39212b248/)  
 * 💻 **GitHub:** [github.com/Kartik-001](https://github.com/Kartik-001)  
 * 📄 **Résumé:** [Download PDF](https://github.com/Kartik-001/Kartik-001.github.io/raw/main/Kartik_Lodhi_Resume.pdf)
